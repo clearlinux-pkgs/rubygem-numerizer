@@ -4,7 +4,7 @@
 #
 Name     : rubygem-numerizer
 Version  : 0.2.0
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/numerizer-0.2.0.gem
 Source0  : https://rubygems.org/downloads/numerizer-0.2.0.gem
 Summary  : No detailed summary available
@@ -55,20 +55,14 @@ pushd %{buildroot}%{gem_dir}/gems/numerizer-0.2.0 && rake --trace test && popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/numerizer-0.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/Numerizer/andition-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/Numerizer/cdesc-Numerizer.ri
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/Numerizer/numerize-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/numerizer-0.2.0/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/.document
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/lib/numerizer.rb
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/numerizer.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/numerizer-0.2.0/test/test_numerizer.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/numerizer-0.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/numerizer-0.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/.document
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/lib/numerizer.rb
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/numerizer.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/numerizer-0.2.0/test/test_numerizer.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/numerizer-0.2.0.gemspec
