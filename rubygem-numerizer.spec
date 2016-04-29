@@ -4,7 +4,7 @@
 #
 Name     : rubygem-numerizer
 Version  : 0.2.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/numerizer-0.2.0.gem
 Source0  : https://rubygems.org/downloads/numerizer-0.2.0.gem
 Summary  : No detailed summary available
